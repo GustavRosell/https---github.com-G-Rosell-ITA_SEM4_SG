@@ -1,0 +1,250 @@
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/CoverletSourceRootsMapping_SalesAPITestProject
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/testhost.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.deps.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.runtimeconfig.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/appsettings.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.exe
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/testhost.exe
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.deps.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.runtimeconfig.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Castle.Core.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Moq.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/NuGet.Frameworks.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.csproj.AssemblyReference.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.AssemblyInfoInputs.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.AssemblyInfo.cs
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.csproj.CoreCompileInputs.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPI.671E7065.Up2Date
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/refint/SalesAPITestProject.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.genruntimeconfig.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/ref/SalesAPITestProject.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/CoverletSourceRootsMapping_SalesAPITestProject
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.deps.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.runtimeconfig.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/appsettings.Development.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/appsettings.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.deps.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.runtimeconfig.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesAPITestProject.pdb
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Castle.Core.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/testhost.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Moq.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/SalesWebAPI.pdb
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.csproj.AssemblyReference.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.AssemblyInfoInputs.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.AssemblyInfo.cs
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.csproj.CoreCompileInputs.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.sourcelink.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPI.671E7065.Up2Date
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/refint/SalesAPITestProject.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.pdb
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/SalesAPITestProject.genruntimeconfig.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesAPITestProject/obj/Debug/net8.0/ref/SalesAPITestProject.dll

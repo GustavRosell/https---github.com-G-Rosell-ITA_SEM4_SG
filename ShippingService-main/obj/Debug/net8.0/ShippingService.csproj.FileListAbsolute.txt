@@ -1,0 +1,66 @@
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\appsettings.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\ShippingService.exe
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\ShippingService.deps.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\ShippingService.runtimeconfig.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\ShippingService.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\ShippingService.pdb
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.csproj.AssemblyReference.cache
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.AssemblyInfoInputs.cache
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.AssemblyInfo.cs
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.csproj.CoreCompileInputs.cache
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets\msbuild.ShippingService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets\msbuild.build.ShippingService.props
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShippingService.props
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShippingService.props
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\scopedcss\bundle\ShippingService.styles.css
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\Shipping.E3D92A95.Up2Date
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\refint\ShippingService.dll
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.pdb
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ShippingService.genruntimeconfig.cache
+C:\Users\balsg\OneDrive\Skrivebord\ShippingService\ShippingService\obj\Debug\net8.0\ref\ShippingService.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\appsettings.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\ShippingService.exe
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\ShippingService.deps.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\ShippingService.runtimeconfig.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\ShippingService.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\ShippingService.pdb
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.csproj.AssemblyReference.cache
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.AssemblyInfoInputs.cache
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.AssemblyInfo.cs
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets\msbuild.ShippingService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets\msbuild.build.ShippingService.props
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShippingService.props
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShippingService.props
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\scopedcss\bundle\ShippingService.styles.css
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\Shipping.E3D92A95.Up2Date
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\refint\ShippingService.dll
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.pdb
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ShippingService.genruntimeconfig.cache
+C:\Users\rasmu\OneDrive\Skrivebord\EAA - Noter\4Semester\It-Arkitektur\ShippingService-main\obj\Debug\net8.0\ref\ShippingService.dll

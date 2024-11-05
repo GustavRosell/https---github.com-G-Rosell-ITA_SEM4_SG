@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D493D2BB-C10D-401A-9F88-9D90723C2EF1}|SalesAPITestProject\\SalesAPITestProject.csproj|c:\\users\\moal\\documents\\teaching_aarhus\\undervisning efter\u00E5r 2024\\agil udvikling\\moduler\\modul 55\\saleswebapi\\salesapitestproject\\customerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D493D2BB-C10D-401A-9F88-9D90723C2EF1}|SalesAPITestProject\\SalesAPITestProject.csproj|solutionrelative:salesapitestproject\\customerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|c:\\users\\moal\\documents\\teaching_aarhus\\undervisning efter\u00E5r 2024\\agil udvikling\\moduler\\modul 55\\saleswebapi\\saleswebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|solutionrelative:saleswebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|c:\\users\\moal\\documents\\teaching_aarhus\\undervisning efter\u00E5r 2024\\agil udvikling\\moduler\\modul 55\\saleswebapi\\saleswebapi\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|solutionrelative:saleswebapi\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|c:\\users\\moal\\documents\\teaching_aarhus\\undervisning efter\u00E5r 2024\\agil udvikling\\moduler\\modul 55\\saleswebapi\\saleswebapi\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|solutionrelative:saleswebapi\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|c:\\users\\moal\\documents\\teaching_aarhus\\undervisning efter\u00E5r 2024\\agil udvikling\\moduler\\modul 55\\saleswebapi\\saleswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|solutionrelative:saleswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|c:\\users\\moal\\documents\\teaching_aarhus\\undervisning efter\u00E5r 2024\\agil udvikling\\moduler\\modul 55\\saleswebapi\\saleswebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02388281-4B9A-4F40-B2AE-F99ED11702E4}|SalesWebAPI\\SalesWebAPI.csproj|solutionrelative:saleswebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesAPITestProject\\CustomersControllerTest.cs",
+              "RelativeDocumentMoniker": "SalesAPITestProject\\CustomersControllerTest.cs",
+              "ToolTip": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesAPITestProject\\CustomersControllerTest.cs",
+              "RelativeToolTip": "SalesAPITestProject\\CustomersControllerTest.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:55:24.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Program.cs",
+              "RelativeToolTip": "SalesWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:29:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "SalesWebAPI\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "SalesWebAPI\\Data\\CustomerRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:24:00.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "SalesWebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "SalesWebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:19:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "SalesWebAPI\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "SalesWebAPI\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:24:07.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesWebAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efter\u00E5r 2024\\Agil udvikling\\Moduler\\Modul 55\\SalesWebAPI\\SalesWebAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "SalesWebAPI\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:24:14.603Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

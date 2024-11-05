@@ -1,0 +1,97 @@
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.exe
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.deps.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.runtimeconfig.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.pdb
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.csproj.AssemblyReference.cache
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.AssemblyInfoInputs.cache
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.AssemblyInfo.cs
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SalesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SalesWebAPI.props
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesWebAPI.props
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesWebAPI.props
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/scopedcss/bundle/SalesWebAPI.styles.css
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWeb.CB7B1EDD.Up2Date
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/refint/SalesWebAPI.dll
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.pdb
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.genruntimeconfig.cache
+C:/Users/moal/source/repos/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/ref/SalesWebAPI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.exe
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.deps.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.runtimeconfig.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.csproj.AssemblyReference.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.AssemblyInfoInputs.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.AssemblyInfo.cs
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SalesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SalesWebAPI.props
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesWebAPI.props
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesWebAPI.props
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/scopedcss/bundle/SalesWebAPI.styles.css
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWeb.CB7B1EDD.Up2Date
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/refint/SalesWebAPI.dll
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.pdb
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.genruntimeconfig.cache
+C:/Users/moal/Documents/Teaching_AArhus/Undervisning efterår 2024/Agil udvikling/Code/Not_GitHub_Tracked/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/ref/SalesWebAPI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/appsettings.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.deps.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.runtimeconfig.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/SalesWebAPI.pdb
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.csproj.AssemblyReference.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.AssemblyInfoInputs.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.AssemblyInfo.cs
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.csproj.CoreCompileInputs.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.sourcelink.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.SalesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SalesWebAPI.props
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesWebAPI.props
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesWebAPI.props
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/scopedcss/bundle/SalesWebAPI.styles.css
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWeb.CB7B1EDD.Up2Date
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/refint/SalesWebAPI.dll
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.pdb
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/SalesWebAPI.genruntimeconfig.cache
+/Users/rosell/IT-A/1_Webteknologi/SalesWebAPI/SalesWebAPI/obj/Debug/net8.0/ref/SalesWebAPI.dll

@@ -1,0 +1,37 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://haav.dk/schemas/customer-schema.json",
+    "title": "Customer",
+    "description": "Customer entity for HaaV's service",
+    "type": "object",
+    "properties": {
+      "customerId": {
+        "description": "The unique identifier for the customer",
+        "type": "string",
+        "format": "uuid" 
+      },
+      "name": {
+        "description": "The customer's full name",
+        "type": "string"
+      },
+      "email": {
+        "description": "The customer's email address",
+        "type": "string",
+        "format": "email"
+      },
+      "phoneNumber": {
+        "description": "The customer's phone number",
+        "type": "string"
+      },
+      "address": {
+        "description": "The customer's delivery address",
+        "type": "string"
+      }
+    },
+    "required": [
+      "customerId",
+      "name",
+      "email",
+      "address"
+    ]
+  }
